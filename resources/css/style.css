@@ -23,3 +23,13 @@ a {
   color: aquamarine;
   font-size: 16px;
 }
+
+p {
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+p.align {
+  text-align: right;
+}
